@@ -21,6 +21,4 @@
 
 Bu proje, hem veri tabanı mimarisi konusundaki bilgilerimi pekiştirmemi hem de teorik bilgiyi pratik ve görsel bir ürüne dönüştürmemi sağladı. C# yolculuğumda öğrendiklerimi bir adım öteye taşıdığım harika bir deneyim oldu. İlerleyen projelerde bu altyapıyı çok daha ileriye taşımayı hedefliyorum! 📈
 
-
-
-<img width="1003" height="532" alt="resim" src="https://github.com/user-attachments/assets/da6491d4-bd7e-4436-b60a-f8921e77b275" />
+<img width="992" height="528" alt="resim" src="https://github.com/user-attachments/assets/dbb7f63a-c027-409c-be90-6e2f4b771839" />
