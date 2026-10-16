@@ -25,7 +25,7 @@ namespace CSharpEgitimKampi301.DataAccessLayer.EntityFramework
                 CategoryName = x.Category.CategoryName
             }).ToList();
 
-            return values.Cast<object>().ToList();
+            return values.Cast<Object>().ToList();
         }
     }
 }
