@@ -59,6 +59,7 @@
             this.btnGetById.TabIndex = 25;
             this.btnGetById.Text = "ID\'ye Göre Getir";
             this.btnGetById.UseVisualStyleBackColor = false;
+            this.btnGetById.Click += new System.EventHandler(this.btnGetById_Click);
             // 
             // btnUpdate
             // 
@@ -69,6 +70,7 @@
             this.btnUpdate.TabIndex = 24;
             this.btnUpdate.Text = "Güncelle";
             this.btnUpdate.UseVisualStyleBackColor = false;
+            this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
             // 
             // btnDelete
             // 
@@ -90,6 +92,7 @@
             this.btnAdd.TabIndex = 22;
             this.btnAdd.Text = "Ekle";
             this.btnAdd.UseVisualStyleBackColor = false;
+            this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
             // 
             // txtProductName
             // 
@@ -117,6 +120,7 @@
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.Size = new System.Drawing.Size(754, 381);
             this.dataGridView1.TabIndex = 16;
+            this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
             // btnList
             // 
@@ -216,6 +220,7 @@
             this.cmbCategory.Name = "cmbCategory";
             this.cmbCategory.Size = new System.Drawing.Size(156, 21);
             this.cmbCategory.TabIndex = 33;
+            this.cmbCategory.SelectedIndexChanged += new System.EventHandler(this.cmbCategory_SelectedIndexChanged);
             // 
             // btnList2
             // 
